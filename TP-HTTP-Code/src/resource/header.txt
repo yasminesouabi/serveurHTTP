@@ -1,0 +1,189 @@
+Response Header :HTTP/1.0 200 OK
+type de requete :GET
+ressource demandée :C:\TP-HTTP-Code\src\http\resource\index.html
+Content-Type: text/html
+2021/11/24 11:42:36
+Content-Length: 1265
+
+Response Header :HTTP/1.0 200 OK
+type de requete :GET
+ressource demandée :C:\TP-HTTP-Code\src\http\resource\formulaire.html
+Content-Type: text/html
+2021/11/24 11:42:47
+Content-Length: 372
+
+Response Header :HTTP/1.0 200 OK
+type de requete :GET
+ressource demandée :C:\TP-HTTP-Code\src\http\resource\video.mp4
+Content-Type: video/mp4
+2021/11/24 11:42:54
+Content-Length: 3797587
+
+Response Header :HTTP/1.0 200 OK
+type de requete :GET
+ressource demandée :C:\TP-HTTP-Code\src\http\resource\video.mp4
+Content-Type: video/mp4
+2021/11/24 11:42:54
+Content-Length: 3797587
+
+Response Header :HTTP/1.0 200 OK
+type de requete :GET
+ressource demandée :C:\TP-HTTP-Code\src\http\resource\image.jpg
+Content-Type: image/jpeg
+2021/11/24 11:43:00
+Content-Length: 178616
+
+Response Header :HTTP/1.0 200 OK
+type de requete :GET
+ressource demandée :C:\TP-HTTP-Code\src\http\resource\test.txt
+Content-Type: text/plain
+2021/11/24 11:43:05
+Content-Length: 18
+
+Response Header :HTTP/1.0 200 OK
+type de requete :GET
+ressource demandée :C:\TP-HTTP-Code\src\http\resource\testgif.gif
+Content-Type: application/octet-stream
+2021/11/24 11:43:11
+Content-Length: 35071
+
+Response Header :HTTP/1.0 200 OK
+type de requete :GET
+ressource demandée :C:\TP-HTTP-Code\src\http\resource\formulaire2.html
+Content-Type: text/html
+2021/11/24 11:44:19
+Content-Length: 394
+
+Response Header :HTTP/1.0 201 Created
+type de requete :POST
+ressource demandée :C:\TP-HTTP-Code\src\http\resource\post.txt
+Content-Type: text/plain
+2021/11/24 11:44:32
+Content-Length: 0
+
+Response Header :HTTP/1.0 204 No Content
+type de requete :POST
+ressource demandée :C:\TP-HTTP-Code\src\http\resource\post.txt
+Content-Type: text/plain
+2021/11/24 11:44:50
+Content-Length: 66
+
+Response Header :HTTP/1.0 204 No Content
+type de requete :DELETE
+ressource demandée :C:\TP-HTTP-Code\src\http\resource\post.txt
+Content-Type: text/plain
+2021/11/24 11:45:21
+Content-Length: 132
+
+Response Header :HTTP/1.0 200 OK
+type de requete :HEAD
+ressource demandée :C:\TP-HTTP-Code\src\http\resource\test.txt
+Content-Type: text/plain
+2021/11/24 11:47:43
+Content-Length: 18
+
+Response Header :HTTP/1.0 404 Not Found
+type de requete :HEAD
+ressource demandée :C:\TP-HTTP-Code\src\http\resource\testtt.txt
+Content-Type: text/plain
+2021/11/24 11:47:55
+Content-Length: 0
+
+Response Header :HTTP/1.0 404 Not Found
+type de requete :GET
+ressource demandée :resource/not-found.html
+Content-Type: text/html
+2021/11/24 11:49:03
+Content-Length: 102
+
+Response Header :HTTP/1.0 404 Not Found
+type de requete :GET
+ressource demandée :resource/not-found.html
+Content-Type: text/html
+2021/11/24 11:49:03
+Content-Length: 102
+
+Response Header :HTTP/1.0 200 OK
+type de requete :GET
+ressource demandée :C:\TP-HTTP-Code\src\http\resource\index.html
+Content-Type: text/html
+2021/11/25 19:54:55
+Content-Length: 1265
+
+Response Header :HTTP/1.0 200 OK
+type de requete :GET
+ressource demandée :C:\TP-HTTP-Code\src\http\resource\index.html
+Content-Type: text/html
+2021/11/25 19:57:57
+Content-Length: 1265
+
+Response Header :HTTP/1.0 201 Created
+type de requete :POST
+ressource demandée :C:\TP-HTTP-Code\src\http\resource\testtt.txt
+Content-Type: text/plain
+2021/11/25 19:58:03
+Content-Length: 0
+
+Response Header :HTTP/1.0 200 OK
+type de requete :GET
+ressource demandée :C:\TP-HTTP-Code\src\resource\index.html
+Content-Type: text/html
+2021/11/25 20:21:59
+Content-Length: 1265
+
+Response Header :HTTP/1.0 200 OK
+type de requete :GET
+ressource demandée :C:\TP-HTTP-Code\src\resource\index.html
+Content-Type: text/html
+2021/11/25 21:05:55
+Content-Length: 1265
+
+Response Header :HTTP/1.0 200 OK
+type de requete :GET
+ressource demandée :C:\TP-HTTP-Code\src\resource\formulaire.html
+Content-Type: text/html
+2021/11/25 21:05:57
+Content-Length: 372
+
+Response Header :HTTP/1.0 200 OK
+type de requete :GET
+ressource demandée :C:\TP-HTTP-Code\src\resource\video.mp4
+Content-Type: video/mp4
+2021/11/25 21:05:59
+Content-Length: 3797587
+
+Response Header :HTTP/1.0 200 OK
+type de requete :GET
+ressource demandée :C:\TP-HTTP-Code\src\resource\video.mp4
+Content-Type: video/mp4
+2021/11/25 21:05:59
+Content-Length: 3797587
+
+Response Header :HTTP/1.0 200 OK
+type de requete :GET
+ressource demandée :C:\TP-HTTP-Code\src\resource\test.txt
+Content-Type: text/plain
+2021/11/25 21:06:02
+Content-Length: 18
+
+Response Header :HTTP/1.0 201 Created
+type de requete :POST
+ressource demandée :C:\TP-HTTP-Code\src\resource\testtt.txt/formulaire.html
+Content-Type: text/html
+2021/11/25 21:06:28
+Content-Length: 0
+
+Response Header :HTTP/1.0 204 No Content
+type de requete :POST
+ressource demandée :C:\TP-HTTP-Code\src\resource\testtt.txt
+Content-Type: text/plain
+2021/11/25 21:07:55
+Content-Length: 66
+
+Response Header :HTTP/1.0 204 No Content
+type de requete :DELETE
+ressource demandée :C:\TP-HTTP-Code\src\resource\testtt.txt
+Content-Type: text/plain
+2021/11/25 21:09:08
+Content-Length: 132
+

@@ -1,0 +1,4 @@
+{
+    "namestar":"yasmine",
+    "passwordstar":"lol"
+}
